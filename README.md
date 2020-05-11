@@ -7,3 +7,15 @@
 
 
 Проект является полностью учебным и был создан лишь для знакомства со Spring.
+
+Регистрация
+---
+![Register](https://github.com/maxim092001/QuizEngine/blob/master/src/resources/screenshots/register.png)
+
+Добавление викторины
+---
+![AddQuiz](https://github.com/maxim092001/QuizEngine/blob/master/src/resources/screenshots/addquiz.png)
+
+Решение
+---
+![AddQuiz](https://github.com/maxim092001/QuizEngine/blob/master/src/resources/screenshots/solve.png)
