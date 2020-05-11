@@ -1,4 +1,4 @@
-package engine;
+package engine.user;
 
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

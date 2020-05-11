@@ -1,4 +1,4 @@
-package engine;
+package engine.user;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

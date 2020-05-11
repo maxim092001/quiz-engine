@@ -1,4 +1,4 @@
-package engine;
+package engine.quiz;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

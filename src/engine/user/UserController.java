@@ -1,4 +1,4 @@
-package engine;
+package engine.user;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.password.PasswordEncoder;
