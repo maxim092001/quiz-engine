@@ -1,21 +1,20 @@
 ## Web Quiz Engine API.
 
-Данный проект был мной выполнен в [JetBrains Academy](https://www.jetbrains.com/ru-ru/academy/),
-платформа [Hyperskill](https://hyperskill.org/).
+This project was developed at [JetBrains Academy](https://www.jetbrains.com/ru-ru/academy/),
+[Hyperskill](https://hyperskill.org/) platform.
 
-Сам проект представляет из себя API, который позволяет регистрироваться, добавлять викторины с вариантами ответа и отвечать на определенную викторину.
+It is an api that allows you to register and create quizzes with multiple answers. Users can answer the quiz question.
 
+The project is completely educational and was created for experience with Spring only.
 
-Проект является полностью учебным и был создан лишь для знакомства со Spring.
-
-Регистрация
+Registration
 ---
 ![Register](https://github.com/maxim092001/QuizEngine/blob/master/src/resources/screenshots/register.png)
 
-Добавление викторины
+Quiz adding
 ---
 ![AddQuiz](https://github.com/maxim092001/QuizEngine/blob/master/src/resources/screenshots/addquiz.png)
 
-Решение
+Completing quiz
 ---
-![AddQuiz](https://github.com/maxim092001/QuizEngine/blob/master/src/resources/screenshots/solve.png)
+![Complete quiz](https://github.com/maxim092001/QuizEngine/blob/master/src/resources/screenshots/solve.png)
